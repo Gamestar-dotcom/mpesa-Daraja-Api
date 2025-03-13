@@ -1,0 +1,3 @@
+<!-- Echo DARAJA API INTEGRATION -->
+<?php
+echo "DARAJA API INTEGRATION";
